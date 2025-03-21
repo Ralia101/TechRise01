@@ -1,5 +1,5 @@
 const button = document.querySelector(".btns button");
-const card = document.querySelector(".card");
+const card = document.querySelector(".imgbox");
 
 console.log("Button element:", button);
 console.log("Card element:", card);
