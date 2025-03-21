@@ -1,6 +1,4 @@
-console.log("Script.js is running!");
-
-const button = document.querySelector(".card-btns button");
+const button = document.querySelector(".btns button");
 const card = document.querySelector(".card");
 
 console.log("Button element:", button);
