@@ -40,6 +40,25 @@ body {
   gap: 12px;
 }
 
+.enclosing-div {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+  }
+
+.btns {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+.btns button{
+      padding: 5px;
+      border-radius: 8%;
+      border: none;
+      background-color: #f7cf4b;
+  }
+
 .textbox span {
   background: hsl(47, 88%, 63%);
   display: inline-block;
